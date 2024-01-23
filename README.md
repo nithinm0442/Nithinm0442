@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nithin Michael</h1>
+<h1 align="center">Hello there 👋, I'm Nithin Michael</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
