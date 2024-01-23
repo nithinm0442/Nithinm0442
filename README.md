@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithin Michael</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinm0442&label=Profile%20views&color=0e75b6&style=flat" alt="nithinm0442" /> </p>
 
@@ -8,7 +8,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/9
 
 - 🔭 I’m currently working on **Netflix Dev-Sec Project**
 
-- 🌱 I’m currently learning **AWS Certifications**
+- 🌱 I’m currently working on **AWS Certifications**
 
 - 💬 Ask me about **AWS Services, IAC, Kubernetes, Terraform, Docker**
 
