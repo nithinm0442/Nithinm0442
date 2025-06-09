@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Dev-Sec Project & AWS Certifications**
+- 🔭 I’m currently working on **Fun Personal growth Project & AWS Certifications**
 
 - 🌱 I’m currently learning **Azure**
 
