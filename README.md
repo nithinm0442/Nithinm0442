@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **AWS Services, IAC, Kubernetes, Terraform, Docker**
 
-- 📫 How to reach me **Nithinm0442@gmail.com**
+- 📫 How to reach me **Nithinm0445@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
